@@ -774,11 +774,6 @@ fn main() {
             ("libavutil/avutil.h", None, "FF_API_LLS_PRIVATE"),
             ("libavutil/avutil.h", None, "FF_API_AVFRAME_LAVC"),
             ("libavutil/avutil.h", None, "FF_API_VDPAU"),
-            (
-                "libavutil/avutil.h",
-                None,
-                "FF_API_GET_CHANNEL_LAYOUT_COMPAT",
-            ),
             ("libavutil/avutil.h", None, "FF_API_OPT_TYPE_METADATA"),
             ("libavutil/avutil.h", None, "FF_API_DLOG"),
             ("libavutil/avutil.h", None, "FF_API_HMAC"),
