@@ -779,7 +779,6 @@ fn main() {
                 None,
                 "FF_API_GET_CHANNEL_LAYOUT_COMPAT",
             ),
-            ("libavutil/avutil.h", None, "FF_API_XVMC"),
             ("libavutil/avutil.h", None, "FF_API_OPT_TYPE_METADATA"),
             ("libavutil/avutil.h", None, "FF_API_DLOG"),
             ("libavutil/avutil.h", None, "FF_API_HMAC"),
